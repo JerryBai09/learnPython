@@ -1,0 +1,8 @@
+Welcome to my world
+
+/**************************************
+* * * This is the first line of comment
+* * * * This is the second line of comment
+**************************************/
+
+Text reaches end.
